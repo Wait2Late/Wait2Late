@@ -49,11 +49,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wait2Late.Wait2Late&"  />
-</div>
 
-###
 
 <img src="https://raw.githubusercontent.com/Wait2Late/Wait2Late/output/snake.svg" alt="Snake animation" />
 
