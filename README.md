@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 ![Wait2Late's GitHub stats](https://github-readme-stats-wait2late.vercel.app/api?username=Wait2Late&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 -->
 
-[![Wait2Late's GitHub stats](https://github-readme-stats-wait2late.vercel.app/api?username=Wait2Late&show_icons=true&card_width=150)](https://github.com/Wait2Late/github-readme-stats)
+
+[![Wait2Late's GitHub stats](https://github-readme-stats-wait2late.vercel.app/api?username=Wait2Late&show_icons=true&card_width=150&theme=shadow_green&text_color=c5d0e0&icon_color=009b00&border_color=009b00)](https://github.com/Wait2Late/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=compact&langs_count=8&theme=shadow_green&text_color=c5d0e0&icon_color=009b00&border_color=009b00)
 
 
 <br>
