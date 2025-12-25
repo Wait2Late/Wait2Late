@@ -27,31 +27,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Wait2Late's GitHub stats](https://github-readme-stats-wait2late.vercel.app/api?username=Wait2Late&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 -->
-[![Wait2Late's GitHub stats](https://github-readme-stats-wait2late.vercel.app/api?username=Wait2Late)](https://github.com/Wait2Late/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=compact)
-<!--
-[![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late)](https://github.com/Wait2Late/github-readme-stats)
+[![Wait2Late's GitHub stats](https://github-readme-stats-wait2late.vercel.app/api?username=Wait2Late&show_icons=true&card_width=150)](https://github.com/Wait2Late/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=donut)](https://github.com/Wait2Late/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=donut-vertical)](https://github.com/Wait2Late/github-readme-stats)
+![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=compact&langs_count=8)
 
-[![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=pie)](https://github.com/Wait2Late/github-readme-stats)
--->
 
 <br>
-
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats-wait2late.vercel.app/api?username=Wait2Late&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-wait2late.vercel.app/api/top-langs?username=Wait2Late&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Wait2Late&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Wait2Late&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+-->
 
-### 3
+
+###
 
 <br clear="both">
 
