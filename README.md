@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Wait2Late's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wait2Late)](https://github.com/Wait2Late/)
+[![Wait2Late's GitHub stats](https://github-readme-stats.vercel.app/api?Wait2Late=anuraghazra)](https://github.com/Wait2Late)
 
 <br>
 
