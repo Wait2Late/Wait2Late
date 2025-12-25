@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 [![Wait2Late's GitHub stats](https://github-readme-stats.vercel.app/api?Wait2Late=anuraghazra)](https://github.com/Wait2Late)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Wait2Late=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 
