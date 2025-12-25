@@ -28,19 +28,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![Wait2Late's GitHub stats](https://github-readme-stats-wait2late.vercel.app/api?username=Wait2Late)](https://github.com/Wait2Late)
-
-[![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late)](https://github.com/Wait2Late/github-readme-stats)
+[![Wait2Late's GitHub stats](https://github-readme-stats-wait2late.vercel.app/api?username=Wait2Late)](https://github.com/Wait2Late/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=compact)
+<!--
+[![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late)](https://github.com/Wait2Late/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=donut)](https://github.com/Wait2Late/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=donut-vertical)](https://github.com/Wait2Late/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=pie)](https://github.com/Wait2Late/github-readme-stats)
+-->
 
 <br>
 
@@ -52,7 +51,7 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app?username=Wait2Late&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+### 3
 
 <br clear="both">
 
@@ -61,10 +60,4 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wait2Late/Wait2Late/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wait2Late/Wait2Late/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-
-
-<img src="https://raw.githubusercontent.com/Wait2Late/Wait2Late/output/snake.svg" alt="Snake animation" />
 
