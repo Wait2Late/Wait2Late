@@ -19,8 +19,10 @@ I am open to work.
 |[![Game Engines](https://skillicons.dev/icons?i=unreal,unity,godot)]()    | [![Languages](https://skillicons.dev/icons?i=cs,cpp,lua,postgres,mongodb,dotnet)]()    | [![Web](https://skillicons.dev/icons?i=html,css,js,ts)]() |
 
 ## My Stats
-[![Wait2Late's GitHub stats](https://github-readme-stats-wait2late.vercel.app/api?username=Wait2Late&show_icons=true&card_width=150&theme=shadow_green&text_color=c5d0e0&icon_color=009b00&border_color=009b00)](https://github.com/Wait2Late/github-readme-stats)
-![Top Langs](https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=compact&langs_count=8&theme=shadow_green&text_color=c5d0e0&icon_color=009b00&border_color=009b00)
+<div>
+  <img height="200" src="https://github-readme-stats-wait2late.vercel.app/api?username=Wait2Late&show_icons=true&card_width=150&theme=shadow_green&text_color=c5d0e0&icon_color=009b00&border_color=009b00" />
+  <img height="200" src="https://github-readme-stats-wait2late.vercel.app/api/top-langs/?username=Wait2Late&layout=compact&langs_count=8&theme=shadow_green&text_color=c5d0e0&icon_color=009b00&border_color=009b00" />
+</div>
 
 <!--
 **Wait2Late/Wait2Late** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
